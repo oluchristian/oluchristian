@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **oluchristian98@gmail.com**
 
-- ⚡ Fun fact **I am handsome**
+- ⚡ Fun fact **I am addicted to Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
